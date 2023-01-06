@@ -1,6 +1,6 @@
 ﻿namespace OverwatchRestReader;
 
-public static class MauiProgram
+public static class OverwatchRestReaderMain
 {
 	public static MauiApp CreateMauiApp()
 	{
